@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0273-integer-to-english-words) |
 ## Matrix
 |  |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2803-modify-graph-edge-weights) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
