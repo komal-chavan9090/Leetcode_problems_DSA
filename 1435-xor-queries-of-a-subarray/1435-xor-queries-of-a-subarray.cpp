@@ -1,22 +1,28 @@
 class Solution {
 public:
-    
-     int cjh(int start,int end , vector<int> arr)
-     {
-        int ans=0;
-        for(int i=start;i<=end;i++)
-        {
-            ans=ans^arr[i];
-        }
-        return ans;
-     }
     vector<int> xorQueries(vector<int>& arr, vector<vector<int>>& queries) {
-        vector<int> ans;
-        for(int i=0;i<queries.size();i++)
-        {
-            
-            ans.push_back(cjh(queries[i][0],queries[i][1],arr));
+        int n = arr.size();
+        vector<int> pre(n);
+        pre[0] = arr[0];
+        
+        // Compute prefix XOR array
+        for (int i = 1; i < n; ++i) {
+            pre[i] = pre[i - 1] ^ arr[i];
         }
-        return ans;
+        
+        std::vector<int> res(queries.size());
+        
+        // Answer each query
+        for (int k = 0; k < queries.size(); ++k) {
+            int i = queries[k][0];
+            int j = queries[k][1];
+            if (i == 0) {
+                res[k] = pre[j];
+            } else {
+                res[k] = pre[j] ^ pre[i - 1];
+            }
+        }
+        
+        return res;
     }
 };
