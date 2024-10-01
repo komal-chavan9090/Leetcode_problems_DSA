@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1435-xor-queries-of-a-subarray) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2035-count-sub-islands) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2755-extra-characters-in-a-string) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
