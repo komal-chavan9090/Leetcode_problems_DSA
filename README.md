@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1240-stone-game-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1240-stone-game-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1256-rank-transform-of-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1256-rank-transform-of-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
