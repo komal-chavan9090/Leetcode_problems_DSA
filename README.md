@@ -340,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1002-maximum-width-ramp) |
+## Database
+|  |
+| ------- |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1773-percentage-of-users-attended-a-contest) |
 <!---LeetCode Topics End-->
