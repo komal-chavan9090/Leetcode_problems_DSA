@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0040-combination-sum-ii) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Two Pointers
 |  |
 | ------- |
