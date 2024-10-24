@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0547-number-of-provinces) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0547-number-of-provinces) |
 | [0999-regions-cut-by-slashes](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1484-linked-list-in-binary-tree) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0226-invert-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1484-linked-list-in-binary-tree) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Data Stream
