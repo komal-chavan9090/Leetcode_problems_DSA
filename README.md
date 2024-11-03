@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0592-fraction-addition-and-subtraction) |
+| [0812-rotate-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -370,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1773-percentage-of-users-attended-a-contest) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
