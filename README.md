@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2755-extra-characters-in-a-string) |
+| [3291-find-if-array-can-be-sorted](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3291-find-if-array-can-be-sorted](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3291-find-if-array-can-be-sorted](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Stack
 |  |
 | ------- |
