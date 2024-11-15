@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3451-string-compression-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3451-string-compression-iii) |
+| [3636-check-balanced-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3636-check-balanced-string) |
 ## Counting
 |  |
 | ------- |
