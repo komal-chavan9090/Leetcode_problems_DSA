@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2755-extra-characters-in-a-string) |
 | [3034-points-that-intersect-with-cars](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3034-points-that-intersect-with-cars) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3451-string-compression-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3451-string-compression-iii) |
 | [3636-check-balanced-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3636-check-balanced-string) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2716-prime-subtraction-operation) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3427-special-array-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1755-defuse-the-bomb](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Stack
