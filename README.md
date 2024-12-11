@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2755-extra-characters-in-a-string) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3034-points-that-intersect-with-cars](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3034-points-that-intersect-with-cars) |
 | [3291-find-if-array-can-be-sorted](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2716-prime-subtraction-operation) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3427-special-array-ii) |
 ## Heap (Priority Queue)
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1755-defuse-the-bomb](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
