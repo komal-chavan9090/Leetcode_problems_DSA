@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0273-integer-to-english-words) |
+| [0345-reverse-vowels-of-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0539-minimum-time-difference](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0567-permutation-in-string) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0031-next-permutation) |
+| [0345-reverse-vowels-of-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1019-squares-of-a-sorted-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1019-squares-of-a-sorted-array) |
