@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2755-extra-characters-in-a-string) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2155-find-missing-observations) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2411-spiral-matrix-iv) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Depth-First Search
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1325-path-with-maximum-probability) |
 | [2164-two-best-non-overlapping-events](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2803-modify-graph-edge-weights](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2803-modify-graph-edge-weights) |
 ## Binary Tree
 |  |
