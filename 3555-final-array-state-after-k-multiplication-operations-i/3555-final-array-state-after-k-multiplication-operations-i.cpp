@@ -7,8 +7,6 @@ public:
         {
             pq.push({nums[i],i});
         }
-        vector<int> ans(nums.size());
-
         while(k--)
         {
             int value=pq.top().first;
