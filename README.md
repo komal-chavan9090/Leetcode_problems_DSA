@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0040-combination-sum-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0179-largest-number) |
+| [0238-product-of-array-except-self](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0238-product-of-array-except-self) |
 | [0495-teemo-attacking](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0495-teemo-attacking) |
 | [0539-minimum-time-difference](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0539-minimum-time-difference) |
 | [0575-distribute-candies](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0575-distribute-candies) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1435-xor-queries-of-a-subarray) |
