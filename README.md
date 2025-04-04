@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0999-regions-cut-by-slashes) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0547-number-of-provinces) |
 | [0999-regions-cut-by-slashes](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0999-regions-cut-by-slashes) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2035-count-sub-islands) |
 ## Union Find
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0988-flip-equivalent-binary-trees) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Design
 |  |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0988-flip-equivalent-binary-trees) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Data Stream
 |  |
