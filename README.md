@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0564-find-the-closest-palindrome) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1013-fibonacci-number) |
