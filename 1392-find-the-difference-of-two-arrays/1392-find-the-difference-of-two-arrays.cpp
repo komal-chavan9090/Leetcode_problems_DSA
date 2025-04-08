@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<vector<int>> findDifference(vector<int>& nums1, vector<int>& nums2) {
-        map<int,int> nums1map;
-        map<int,int> nums2map;
+        unordered_map<int,int> nums1map;
+        unordered_map<int,int> nums2map;
 
         for(int i=0;i<nums1.size();i++) nums1map[nums1[i]]++;
         for(int i=0;i<nums2.size();i++) nums2map[nums2[i]]++;
