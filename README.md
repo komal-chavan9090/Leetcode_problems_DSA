@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1002-maximum-width-ramp](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1325-path-with-maximum-probability) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1046-max-consecutive-ones-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2164-two-best-non-overlapping-events](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2164-two-best-non-overlapping-events) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0731-my-calendar-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
