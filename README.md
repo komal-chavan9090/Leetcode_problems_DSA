@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0564-find-the-closest-palindrome) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Matrix
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0779-max-chunks-to-make-sorted-ii) |
