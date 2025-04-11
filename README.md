@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0969-number-of-recent-calls) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0969-number-of-recent-calls) |
 ## Backtracking
 |  |
 | ------- |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0969-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
