@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2580-circular-sentence) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1923-sentence-similarity-iii) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
