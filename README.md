@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2262-solving-questions-with-brainpower](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2428-equal-row-and-column-pairs](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2470-removing-stars-from-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2755-extra-characters-in-a-string) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
