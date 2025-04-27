@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-minimum-moves-to-convert-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2470-removing-stars-from-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2755-extra-characters-in-a-string) |
