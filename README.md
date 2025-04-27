@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2226-rings-and-rods) |
+| [2235-capitalize-the-title](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2235-capitalize-the-title) |
 | [2470-removing-stars-from-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2755-extra-characters-in-a-string) |
