@@ -1,22 +1,14 @@
 class Solution {
 public:
-   int getCount(string s)
-    {
-        stringstream ss(s);
-        string word;
-        int count = 0;
-        while (ss >> word)
-        {
-            count++;
-        }
-        return count;
-    }
-
-    int mostWordsFound(vector<string>& s) {
-        int maxi = 0;  // Change maxi to int to match the return type of getCount
-        for (int i = 0; i < s.size(); i++) {
-            maxi = max(maxi, getCount(s[i]));  // Both are now of type int
-        }
-        return maxi;
+int words(string sent) {
+int count = 0,n = sent.size();
+if(n == 1 && sent == " ") return 0;
+for(int i = 0;i < n;i++) if((i == n-1) || (sent[i] == ' ')) count++;
+return count;
+}
+    int mostWordsFound(vector<string>& sentences) {
+int maxima = 0;
+for(string s:sentences) maxima = max(maxima,words(s));
+return maxima;     
     }
 };
