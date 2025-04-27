@@ -5,9 +5,7 @@ public:
 
         for(int i=0;i<words.size();i++)
         {
-            string temp=words[i];
-            int pos=temp.find(pref);
-            if(pos==0)
+            if(words[i].find(pref)==0)
             {
                 count++;
             }
