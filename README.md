@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1923-sentence-similarity-iii) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2190-count-common-words-with-one-occurrence) |
