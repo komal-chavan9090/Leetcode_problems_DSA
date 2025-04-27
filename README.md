@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2226-rings-and-rods) |
 | [2235-capitalize-the-title](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2470-removing-stars-from-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2755-extra-characters-in-a-string) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2155-find-missing-observations) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2428-equal-row-and-column-pairs) |
