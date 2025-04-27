@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2428-equal-row-and-column-pairs](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2755-extra-characters-in-a-string) |
