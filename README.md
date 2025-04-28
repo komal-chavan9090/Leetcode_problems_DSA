@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0432-all-oone-data-structure) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
