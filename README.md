@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0575-distribute-candies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0768-partition-labels](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0768-partition-labels) |
 | [0870-magic-squares-in-grid](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0686-repeated-string-match](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0686-repeated-string-match) |
+| [0768-partition-labels](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0768-partition-labels) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0890-lemonade-change) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0768-partition-labels) |
 | [1019-squares-of-a-sorted-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1798-max-number-of-k-sum-pairs) |
