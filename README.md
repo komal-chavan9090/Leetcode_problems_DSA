@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2470-removing-stars-from-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2755-extra-characters-in-a-string) |
