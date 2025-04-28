@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0179-largest-number) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0088-merge-sorted-array) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0264-ugly-number-ii) |
