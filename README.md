@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0264-ugly-number-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0575-distribute-candies) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0443-string-compression) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0969-number-of-recent-calls) |
 ## Doubly-Linked List
