@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0179-largest-number) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0046-permutations) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Two Pointers
