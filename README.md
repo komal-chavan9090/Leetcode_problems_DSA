@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0495-teemo-attacking) |
+| [0506-relative-ranks](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0539-minimum-time-difference) |
 | [0575-distribute-candies](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0605-can-place-flowers) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0264-ugly-number-ii) |
+| [0506-relative-ranks](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1325-path-with-maximum-probability) |
