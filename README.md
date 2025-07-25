@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0624-maximum-distance-in-arrays) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0566-reshape-the-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0999-regions-cut-by-slashes) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0874-backspace-string-compare) |
