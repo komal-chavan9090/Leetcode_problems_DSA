@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0661-image-smoother) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0729-my-calendar-i) |
