@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0735-asteroid-collision) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0780-max-chunks-to-make-sorted) |
+| [0817-design-hashmap](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0890-lemonade-change) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0697-degree-of-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0697-degree-of-an-array) |
 | [0768-partition-labels](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0768-partition-labels) |
+| [0817-design-hashmap](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0817-design-hashmap) |
 | [0870-magic-squares-in-grid](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0817-design-hashmap](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0969-number-of-recent-calls) |
 ## Binary Search Tree
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0725-split-linked-list-in-parts) |
+| [0817-design-hashmap](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -693,4 +697,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0561-array-partition) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
