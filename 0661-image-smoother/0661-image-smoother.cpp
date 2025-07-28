@@ -1,37 +1,38 @@
-class Solution
-{
+class Solution {
 public:
-    void solve(int i, int j, vector<vector<int>> &img, vector<vector<int>> &smoothed)
-    {
-        int count = 0;
+    public:
+    std::vector<std::vector<int>> imageSmoother(std::vector<std::vector<int>>& img) {
+        int m = img.size();
+        int n = img[0].size();
+        std::vector<std::vector<int>> res(m, std::vector<int>(n, 0));
+
+        for (int i = 0; i < m; ++i) {
+            for (int j = 0; j < n; ++j) {
+                res[i][j] = smoothen(img, i, j);
+            }
+        }
+
+        return res;
+    }
+
+private:
+    int smoothen(const std::vector<std::vector<int>>& img, int x, int y) {
+        int m = img.size();
+        int n = img[0].size();
         int sum = 0;
-        for (int dx = -1; dx <= 1; dx++)
-        {
-            for (int dy = -1; dy <= 1; dy++)
-            {
-                int newRow = i + dx;
-                int newCol = j + dy;
-                if (newRow >= 0 && newRow < img.size() && newCol >= 0 && newCol < img[0].size())
-                {
-                    sum += img[newRow][newCol];
-                    count++;
+        int count = 0;
+
+        for (int i = -1; i <= 1; ++i) {
+            for (int j = -1; j <= 1; ++j) {
+                int nx = x + i;
+                int ny = y + j;
+                if (nx >= 0 && nx < m && ny >= 0 && ny < n) {
+                    sum += img[nx][ny];
+                    ++count;
                 }
             }
         }
-        smoothed[i][j] = sum / count;
-    }
-    vector<vector<int>> imageSmoother(vector<vector<int>> &img)
-    {
-        vector<vector<int>> smoothed(img.size(), vector<int>(img[0].size(), 0));
 
-
-        for (int i = 0; i < img.size(); i++)
-        {
-            for (int j = 0; j < img[0].size(); j++)
-            {
-                solve(i, j, img, smoothed);
-            }
-        }
-        return smoothed;
+        return sum / count;
     }
 };
