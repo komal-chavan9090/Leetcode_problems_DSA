@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0661-image-smoother) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0592-fraction-addition-and-subtraction) |
+| [0628-maximum-product-of-three-numbers](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0870-magic-squares-in-grid) |
