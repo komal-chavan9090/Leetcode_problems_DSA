@@ -1,28 +1,13 @@
 class Solution {
+    const string key[26] = {".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."};
 public:
-    int uniqueMorseRepresentations(vector<string>& words) {
-
-        map<char, string> morseMap = {
-            {'a', ".-"},   {'b', "-..."}, {'c', "-.-."}, {'d', "-.."},
-            {'e', "."},    {'f', "..-."}, {'g', "--."},  {'h', "...."},
-            {'i', ".."},   {'j', ".---"}, {'k', "-.-"},  {'l', ".-.."},
-            {'m', "--"},   {'n', "-."},   {'o', "---"},  {'p', ".--."},
-            {'q', "--.-"}, {'r', ".-."},  {'s', "..."},  {'t', "-"},
-            {'u', "..-"},  {'v', "...-"}, {'w', ".--"},  {'x', "-..-"},
-            {'y', "-.--"}, {'z', "--.."}};
-
-
-        map<string,int> mpp;
-        for(int i=0;i<words.size();i++)
-        {
-            string word=words[i];
-            string morsecode="";
-            for(int j=0;j<word.length();j++)
-            {
-                morsecode+=morseMap[word[j]];
-            }   
-            mpp[morsecode]++;
+    int uniqueMorseRepresentations(const vector<string>& words) {
+        unordered_set<string> results;
+        for (const string& str : words){
+            string result = "";
+            for (const char& c : str) result += key[c-97];
+            results.insert(result);
         }
-        return mpp.size();
+        return results.size();
     }
 };
