@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0859-design-circular-deque](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0859-design-circular-deque) |
+| [0861-flipping-an-image](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0898-transpose-matrix) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0777-toeplitz-matrix) |
+| [0861-flipping-an-image](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0921-spiral-matrix-iii) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0682-baseball-game](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0735-asteroid-collision) |
+| [0861-flipping-an-image](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0906-walking-robot-simulation) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0841-shortest-distance-to-a-character) |
+| [0861-flipping-an-image](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0476-number-complement) |
+| [0861-flipping-an-image](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0861-flipping-an-image) |
 | [1435-xor-queries-of-a-subarray](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
