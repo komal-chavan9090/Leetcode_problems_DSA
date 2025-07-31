@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0999-regions-cut-by-slashes) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0777-toeplitz-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0870-magic-squares-in-grid) |
+| [0898-transpose-matrix](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0874-backspace-string-compare) |
+| [0898-transpose-matrix](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0921-spiral-matrix-iii) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
