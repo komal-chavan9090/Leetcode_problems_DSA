@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0921-spiral-matrix-iii) |
+| [0932-monotonic-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0932-monotonic-array) |
 | [0999-regions-cut-by-slashes](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1002-maximum-width-ramp](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1002-maximum-width-ramp) |
