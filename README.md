@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0859-design-circular-deque](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0890-lemonade-change) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0768-partition-labels) |
+| [0841-shortest-distance-to-a-character](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
