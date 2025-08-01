@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0921-spiral-matrix-iii) |
 | [0932-monotonic-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0932-monotonic-array) |
+| [0941-sort-array-by-parity](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0941-sort-array-by-parity) |
 | [0999-regions-cut-by-slashes](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1002-maximum-width-ramp](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1002-maximum-width-ramp) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0780-max-chunks-to-make-sorted) |
+| [0941-sort-array-by-parity](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0874-backspace-string-compare) |
+| [0941-sort-array-by-parity](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1798-max-number-of-k-sum-pairs) |
