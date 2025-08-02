@@ -2,23 +2,25 @@ class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
-        
-        std::vector<int> prefix(n, 1);
-        std::vector<int> suffix(n, 1);
-        
-        for (int i = 1; i < n; ++i) {
+        vector<int> prefix(n, 1);
+        vector<int> suffix(n, 1);
+        vector<int> result(n);
+
+        // Build prefix product
+        for (int i = 1; i < n; i++) {
             prefix[i] = prefix[i - 1] * nums[i - 1];
         }
-        
-        for (int i = n - 2; i >= 0; --i) {
+
+        // Build suffix product
+        for (int i = n - 2; i >= 0; i--) {
             suffix[i] = suffix[i + 1] * nums[i + 1];
         }
-        
-        std::vector<int> answer(n);
-        for (int i = 0; i < n; ++i) {
-            answer[i] = prefix[i] * suffix[i];
+
+        // Multiply prefix and suffix for final result
+        for (int i = 0; i < n; i++) {
+            result[i] = prefix[i] * suffix[i];
         }
-        
-        return answer;
+
+        return result;
     }
 };
