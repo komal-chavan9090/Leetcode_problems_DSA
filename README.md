@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0981-delete-columns-to-make-sorted) |
+| [0990-verifying-an-alien-dictionary](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [0999-regions-cut-by-slashes](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1002-maximum-width-ramp](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1002-maximum-width-ramp) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0965-unique-email-addresses) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0990-verifying-an-alien-dictionary](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [0999-regions-cut-by-slashes](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0981-delete-columns-to-make-sorted) |
+| [0990-verifying-an-alien-dictionary](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0990-verifying-an-alien-dictionary) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
