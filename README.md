@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1240-stone-game-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2154-minimum-moves-to-convert-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2154-minimum-moves-to-convert-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
