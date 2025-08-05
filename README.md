@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0921-spiral-matrix-iii) |
 | [0932-monotonic-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0932-monotonic-array) |
+| [0940-fruit-into-baskets](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0944-smallest-range-i) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0940-fruit-into-baskets) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0965-unique-email-addresses) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
