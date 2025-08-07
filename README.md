@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1115-valid-boomerang](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1115-valid-boomerang) |
 | [1240-stone-game-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1031-add-to-array-form-of-integer) |
+| [1115-valid-boomerang](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1240-stone-game-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1240-stone-game-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -781,4 +783,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0817-design-hashmap) |
+## Geometry
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->
