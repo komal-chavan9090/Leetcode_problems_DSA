@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0238-product-of-array-except-self) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0731-my-calendar-ii) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0392-is-subsequence) |
