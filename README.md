@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0040-combination-sum-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0242-valid-anagram) |
