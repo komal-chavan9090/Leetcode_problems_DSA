@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0575-distribute-candies) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1046-max-consecutive-ones-iii) |
