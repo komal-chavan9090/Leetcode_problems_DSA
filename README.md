@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0861-flipping-an-image) |
 | [0870-magic-squares-in-grid](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0870-magic-squares-in-grid) |
+| [0875-longest-mountain-in-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0906-walking-robot-simulation) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0874-backspace-string-compare) |
+| [0875-longest-mountain-in-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0875-longest-mountain-in-array) |
 | [0941-sort-array-by-parity](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0979-di-string-match) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0650-2-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0875-longest-mountain-in-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1250-longest-common-subsequence) |
@@ -789,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0875-longest-mountain-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/3548-find-the-count-of-good-integers) |
