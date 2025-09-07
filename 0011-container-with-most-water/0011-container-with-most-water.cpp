@@ -1,28 +1,22 @@
 class Solution {
 public:
-    int maxArea(vector<int>& height) {
-        int start=0;
-        int end=height.size()-1;
+    int maxArea(vector<int>& nums) {
+        int i = 0, j = nums.size() - 1;
+        int area = 0;
 
-        int area=0;
-        int maxarea=0;
+        while (i < j) {
+            int height = min(nums[i], nums[j]);
+            int width = j - i; // fix: no +1
+            area = max(area, height * width);
 
-        while(start<end)
-        {
-            area=min(height[start],height[end])*(end-start);
-            if(area>maxarea)
-            {
-                maxarea=area;
-            }
-            if(min(height[start],height[end])==height[start])
-            {
-                start++;
-            }
-            else
-            {
-                end--;
+            // move the smaller line inward
+            if (nums[i] < nums[j]) {
+                i++;
+            } else {
+                j--;
             }
         }
-        return maxarea;
+
+        return area;
     }
 };
