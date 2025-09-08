@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0046-permutations) |
+| [0073-set-matrix-zeroes](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0242-valid-anagram) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/komal-chavan9090/Leetcode_problems_DSA/tree/master/0777-toeplitz-matrix) |
